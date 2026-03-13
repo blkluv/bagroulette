@@ -1,0 +1,11 @@
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env.local
+frontend/.vercel
+
+# Backend
+backend/.env
+backend/vendor/
+backend/storage/logs/*.log
+backend/bootstrap/cache/*.php
